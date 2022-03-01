@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Orders for thorovv posts, and curriers, riding in our post in our affaires.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1604</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12705</idno>
+            <idno type="STC">STC 8346</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.10[36]</idno>
+            <idno type="EEBO-CITATION">99892761</idno>
+            <idno type="PROQUEST">ocm99892761</idno>
+            <idno type="VID">187132</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B12705)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187132)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C7:1[36])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Orders for thorovv posts, and curriers, riding in our post in our affaires.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno 1603. [i.e. 1604]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The publication year is given according to Lady Day dating.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Postal service --  Law and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:187132:1" rendition="simple:additions"/>
+            <head>¶ By the King.</head>
+            <head type="sub">
+               <g ref="char:leaf">❧</g> Orders for thorow Poſts, and Curriers, riding in Poſt in our affaires.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords of the priuie Counſell endeuouring heretofore the like furtherance of the ſeruice of the State, aſwell in horſing ſuch as ride on their Princes af<g ref="char:EOLhyphen"/>faires, as the ſpeedy diſpatch of Packets in all places, where Poſts were erec<g ref="char:EOLhyphen"/>ted and ordeined, conſidering, that for the ſeruice of the one, a dayly fee is al<g ref="char:EOLhyphen"/>lowed, and for the other no certaine wages at all, but the hire of the Horſes let out, and that often ill payd, whereby they ſtand not ſo bound to the one, as to attend the other: And that the Townes and Countreys beſides became ma<g ref="char:EOLhyphen"/>ny wayes vexed and perplexed, by the ouer great libertie of Riders in Poſte, ſpecially by ſuch as pretend publique ſeruice by ſpeciall Commiſſion, contrary to the Kings meaning or their Lordſhips orders: Who minding nothing more, then the particular good of his Seruants and Subiects: for the benefite of the one, reliefe of the other, and more regard to the good vſage of all Owners of Horſes, and the beaſts themſelues, did thinke it expedient, to di<g ref="char:EOLhyphen"/>geſt and ſet downe ſundry neceſſary Orders indifferent for all parties to obſerue and follow. Which Orders being by vs reuiewed and conſidered, are now according to the neceſſitie of the times, thought meete to be eftſones allowed and publiſhed. The execution whereof we ſeriouſly recom<g ref="char:EOLhyphen"/>mending to the Maſter and Controller of all our Poſts, for the better warranting and directing of Poſts, ſo farre as this ſeruice may concerne them, We doe hereby ſtraightly charge and command, all and euery Lieutenants of Shires, deputie Lieutenants. Iuſtices of all Aſſiſes and Peace, Sherifes, Maiors, Bailifes, Conſtables, Headborowes, and all other his Officers, Miniſters, and louing Subiects, to be ayding and aſſiſting to the ſame, with their vtmoſt helpe, authoritie and countenance where need ſhall require, as they tender the furtherance of the ſeruice of the State, and our diſpleaſure.</p>
+            <p n="1">1 Firſt it is ordered, That in all places where Poſts are layde for the Packet, they alſo as per<g ref="char:EOLhyphen"/>ſons moſt fit, ſhall haue the benefit and preheminence of letting, furniſhing &amp; appointing of Horſes to all riding in Poſte, (that is to ſay) with Horne and Guide by Commiſſion or otherwiſe, And to that end ſhall keepe, and entertaine of their owne, or haue in a readineſſe vnder their direction, ſuch and ſo many able and ſufficient Poſt horſes, with conuenient furniture, as their owne abilities will beare, or that the contributarie prouiſion of the Townes and Countreys ſhall enable them vnto, or afford. And if it fall out that Curriers or Thorow Poſtes, riding in our affaires by ſpeciall Com<g ref="char:EOLhyphen"/>miſſion come ſo thicke, or in ſuch numbers, that their ordinary prouiſion will not ſuffice, then the Conſtables of the places where they dwell, with the aſſiſtance of the chiefe Magiſtrates there, and of the Countries adioyning, (being required in our name) ſhall take vp, bring in, and ſupply the Poſts with Horſes where they may be had or hired.</p>
+            <p n="2">2 And like as in the Orders for the carrying of the Packets, the furtherance of our ſeruice and the State, is onely aymed at, ſo in this it is intended, that none be holden to ride on publique af<g ref="char:EOLhyphen"/>faires, but with ſpeciall Commiſſion, and the ſame ſigned either by one of our principall Secreta<g ref="char:EOLhyphen"/>ries of State, or ſixe at the leaſt of our priuie Counſell, or the Maſter and Comptrowler generall of the Poſts, for all iourneys outwards, and from the Court onely. And to the Court, the Lords of the priuie Counſell of Scotland, any Lieutenant, Deputie or Gouernours in Ireland, the Preſi<g ref="char:EOLhyphen"/>dents of Counſels, or Vicepreſidents eſtabliſhed in the North, or in the Marches of Wales, the Gouernour of Barwicke, Any Ambaſſadour, Gouernours of Townes, or Agents beyond the Seas, The Warden of the Cinque Ports, or his Lieutenant of Douer, ſpecially ſending to the Court, to the bodie of the Counſell, or Secretaries of State, or any Packet ſo directed, that it may appeare, the partie diſpatched therewith, rideth in our ſpeciall affaires, (the Ambaſſadors of for<g ref="char:EOLhyphen"/>reine Princes within this our Realme, and the ordinary Poſts for France and Flanders allowed, and by their badges ſufficiently commiſſionated, excepted) and of all ſuch ſo riding in publike af<g ref="char:EOLhyphen"/>faires, it ſhall be lawfull for the Poſtes, or the Owners of the Horſes to demand for the hire of each Horſe after the rate of two pence halfepeny the mile, (beſides the Guides groats.) But of all o<g ref="char:EOLhyphen"/>thers riding poſt with Horne and Guide, about their priuate buſineſſes, the hire and prices are left to the parties diſcretions to agree and compound within themſelues.</p>
+            <p n="3">
+               <pb facs="tcp:187132:2"/>3 It ſhal not be lawful for any perſon whatſoeuer riding in poſt by Commiſſion or otherwiſe, to take and ride away the Horſe or Horſes of any man, Poſt or other, not hauing firſt and aforehand fully payed and ſatiſfied for the price and hire vnto the Owners or the Poſt for them, nor ride them further then the next immediate Stage without changing, without the knowledge and conſent of the Poſt of the Stage, by whom he rideth in poſt, nor charge any horſe ſo taken to ride in poſte with any Male, or burden, (beſides his Rider) that exceedeth the weight of thirty pounds: Neither ſhall any man ſo riding in poſte, offer to ride any mans Horſe aboue ſeuen miles the houre in Sum<g ref="char:EOLhyphen"/>mer <hi>viz.</hi> From the firſt of April, till the laſt of September, nor aboue ſixe in Winter, which ſhall be accounted the reſt of the yeere: And if any ſhall wilfully diſobey herein or in any poynt hereof to the manifeſt hurt or hinderance of the Horſe or his Owner, The Officers and Magiſtrates of the place vpon complaint made, ſhall ſtay the parties offending vntil they haue giuen preſent ſatiſfacti<g ref="char:EOLhyphen"/>on, or ſufficient ſecuritie to repay the damage.</p>
+            <p n="4">4 Finally, as it is onely intended that our ſeruice in this kinde, be at all hands furthered, and the Poſtes to that end, in all their wants and wrongs to right themſelues by the helpe and authori<g ref="char:EOLhyphen"/>ty of the Magiſtrates, Townes and Countreys as aboueſayd: So if the ſeruice ſhall ſeeme vnto any Poſt a burden ouer great for his priuate ſtate to beare and vndertake, and the Townes and Countreys (notwithſtanding the eaſe and quiet they reape thereby) no way willing to counte<g ref="char:EOLhyphen"/>nance, encourage or enable him thereto: or otherwiſe in regard of yeeres or indiſpoſition, ſhall not ſee reaſon to vnderly the charge, and trouble of the ſeruice, as being a hinderance to his ſpeciall duetie in the ſeruice of the Packet: The Poſt in ſuch caſe attending his peculiar charge, the Con<g ref="char:EOLhyphen"/>ſtables, and Magiſtrates of the places ſhall take order from time to time, that Horſes bee prouided for all riding in poſte by Commiſſion, or ſpecially ſent in our affaires as beforeſaid, in ſuch ſort as they were ſubiect to doe before there were any Poſtes there, and as in places where are yet no ſtanding Poſtes at all. Vnto whom alſo our pleaſure is, that theſe Orders ſhall be in force, and a<g ref="char:EOLhyphen"/>uaileable (being deliuered them from the Maſter and Comptroller of the Poſts) ſo farre as they, and any branch of them may concerne the furtherance of publique ſeruice, or their owne reliefe.</p>
+            <closer>God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by Robert Barker, Printer to the Kings moſt Excellent Maieſtie. Anno 1603.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
